@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/pehcst/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Pedro%20Costa-%581845"></a>
-	<img alt="With" src="https://img.shields.io/badge/and-Rocketseat-664BB1>
+	<img alt="With" src="https://img.shields.io/badge/and-Rocketseat-664BB1">
 </p>
 
 ## 👨🏻‍💻 Hi everyone, All my projects for react js Ignite.
