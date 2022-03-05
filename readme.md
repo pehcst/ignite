@@ -4,6 +4,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/pehcst/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Pedro%20Costa-%581845"></a>
+	<img alt="With" src="https://img.shields.io/badge/and%20Rocketseat%664BB1">
 </p>
 
 ## 👨🏻‍💻 Hi everyone, All my projects for react js Ignite.
@@ -12,8 +13,9 @@ To make this project more organized, I moved the applications to different repos
 
 Here are the links to them
 
+#Chapter 1
 - #1 Challenge -> [To Do list](https://github.com/pehcst/task-list)
-- #1.1 Complementary challenge -> [Watch Me](https://github.com/pehcst/watchMe)
+- #2 Challenge -> [Watch Me](https://github.com/pehcst/watchMe)
 
 
 ## 📝 License
@@ -22,4 +24,4 @@ All projects is licensed under the MIT License.
 
 ---
 
-Made with 💜 &nbsp;by Pedro Costa & Rocketseat 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/pehcst/)
+Made with 💜 &nbsp;by Pedro Costa 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/pehcst/)
