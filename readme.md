@@ -13,7 +13,7 @@ To make this project more organized, I moved the applications to different repos
 Here are the links to them
 
 - #1 Challenge -> [To Do list](https://github.com/pehcst/task-list)
-- #2 Challenge -> [Watch Me](https://github.com/pehcst/watchMe)
+- #1.1 Complementary challenge -> [Watch Me](https://github.com/pehcst/watchMe)
 
 
 ## 📝 License
