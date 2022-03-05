@@ -17,6 +17,9 @@ Here are the links to them
 - #1 Challenge -> [To Do list](https://github.com/pehcst/task-list)
 - #2 Challenge -> [Watch Me](https://github.com/pehcst/watchMe)
 
+#Chapter 2
+- #1 class -> [Finance App](https://github.com/pehcst/financeapp)
+
 
 ## 📝 License
 
