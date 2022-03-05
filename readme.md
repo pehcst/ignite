@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Pedro%20Costa-%581845"></a>
+	<a href="https://www.linkedin.com/in/pehcst/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Pedro%20Costa-%581845"></a>
 </p>
 
 ## 👨🏻‍💻 Hi everyone, All my projects for react js Ignite.
