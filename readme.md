@@ -20,6 +20,7 @@ Here are the links to them
 #Chapter 2
 - #1 class -> [Finance App](https://github.com/pehcst/financeapp)
 - #3 Challenge -> [Shop Shoes](https://github.com/pehcst/shop-shoes)
+- #4 Challenge -> [goRestaurant](https://github.com/pehcst/goRestaurant)
 
 
 ## 📝 License
