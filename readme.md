@@ -22,6 +22,9 @@ Here are the links to them
 - #3 Challenge -> [Shop Shoes](https://github.com/pehcst/shop-shoes)
 - #4 Challenge -> [goRestaurant](https://github.com/pehcst/goRestaurant)
 
+#Chapter 3
+- #1 class -> [Ig News](https://github.com/pehcst/ignews)
+
 
 ## 📝 License
 
